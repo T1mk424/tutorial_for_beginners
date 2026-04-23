@@ -54,7 +54,8 @@ git branch -d br-name
 удали ветку br-name, но только если она является частью main;
 
 ```bash 
-git branch -D br-name```
+git branch -D br-name
+```
 удали ветку br-name, даже если она не объединена с main.
 
 ## Слияние веток
